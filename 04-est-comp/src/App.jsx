@@ -8,6 +8,10 @@ import Ganso from './components/Ganso'
 import Ganso2 from './components/Ganso2'
 import Sarumano from './components/Sarumano'
 import Sarumano2 from './components/Sarumano2'
+import Sarumano3 from './components/Sarumano3'
+import Denis1 from './components/Denis1'
+import Denis2 from './components/Denis2'
+import Junin from './components/Junin'
 
 function App() {
 
@@ -29,6 +33,10 @@ function App() {
       <Ganso2 />
       <Sarumano />
       <Sarumano2 />
+      <Sarumano3 />
+      <Denis1 />
+      <Denis2 />
+      <Junin />
     </div>
   )
 }
